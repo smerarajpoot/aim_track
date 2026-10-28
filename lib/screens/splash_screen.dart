@@ -1,7 +1,6 @@
 
 import 'dart:async';
 import 'dart:math' as math;
-
 import 'package:flutter/material.dart';
 
 const Color electricBlue = Color(0xFF168BFF);
